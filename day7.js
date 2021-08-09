@@ -37,3 +37,4 @@ function regexVar() {
     return re;
 }
 
+//notes
